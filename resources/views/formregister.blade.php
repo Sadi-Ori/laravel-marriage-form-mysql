@@ -23,7 +23,7 @@
                 <div class="card pd-20 pd-sm-40 form-layout form-layout-4">
                     <h3 class="form-header" style="text-align:center; font-size: 26px;">Marriage Form</h3>
                     <form id="basic-form" method="post" enctype="multipart/form-data">
-
+<!--
                     <div class="row">
                         <label class="col-sm-4 form-control-label">Date of Marriage: <span class="tx-danger">*</span></label>
                         <div class="col-sm-8 mg-t-10 mg-sm-t-0" style="padding-top:5px;">
